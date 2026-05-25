@@ -15,7 +15,7 @@ function deleteLast() {
   display.value = display.value.slice(0, -1);
 }
 
-// Hitung hasil
+// Hitung hasil akhir
 function calculateResult() {
   try {
     // eval digunakan untuk contoh sederhana
